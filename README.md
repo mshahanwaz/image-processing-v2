@@ -2,7 +2,7 @@
 
 Folder structure:
 
-.
+```.
 ├── bmps
 │   ├── img.bmp --------- Input image
 │   ├── new.bmp --------- Output image
@@ -13,4 +13,4 @@ Folder structure:
     ├── main.cpp -------- Main program
     ├── test.cpp -------- Testing purposes
     ├── v0.cpp ---------- Initial version of `main.cpp`file
-    └── v1.cpp ---------- Version 1 of `main.cpp` file
+    └── v1.cpp ---------- Version 1 of `main.cpp` file```
