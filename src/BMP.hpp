@@ -87,10 +87,10 @@ namespace BMP {
 		cout << "Important colors = " << image.imageHeader.important_colors << endl;
 		cout << endl;
 
-		int ans = 0;
+		int option = 0;
 		cout << "Print pixel array? - ";
-		cin >> ans;
-		if (ans == 0) return;
+		cin >> option;
+		if (option == 0) return;
 
 		cout << "---" << endl;
 		cout << "BMP pixel array" << endl;
