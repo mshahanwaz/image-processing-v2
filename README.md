@@ -1,4 +1,4 @@
-# BMP image processing using C++ for major project, 2022
+# Image processing using C++ for BMP images for major project, 2022
 
 Folder structure:
 
